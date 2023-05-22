@@ -1,6 +1,9 @@
 # SecureNotes App
 SecureNotes is an iOS app that allows you to store and protect your confidential notes using biometric authentication or a password. The app utilizes the LocalAuthentication framework to provide a secure and seamless authentication experience. It also leverages the SwiftKeychainWrapper library to securely store and retrieve sensitive information from the device's keychain.
 
+https://github.com/Ktamim98/textvault/assets/124142522/fef6222b-6d38-49f2-8674-afa23bcf26a2
+
+
 ## Overview
 The SecureNotes app provides a simple and intuitive interface for managing your secret messages. It ensures that only authorized users can access the protected content by implementing biometric authentication (if available) or a password-based authentication mechanism. The app employs various features and techniques to enhance security and protect your confidential data.
 
